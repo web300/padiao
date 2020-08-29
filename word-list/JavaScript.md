@@ -1,5 +1,0 @@
-# JavaScript
-
-pragmatic
-
-immediate
